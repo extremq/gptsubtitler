@@ -1,0 +1,11 @@
+subtitles/
+__pycache__/
+*.mp4
+*.srt
+test.py
+dist/
+gptsubtitler.egg-info
+build
+models
+test2.py
+temporary_audio.wav

@@ -18,25 +18,6 @@ After (in Romanian - `model_type=medium, language_model_type=base`):
 
 https://github.com/extremq/subtitler/assets/45830561/20bc5169-0ce3-47cd-adb7-15d75daf27f4
 
-# Setup
-Install using `pip`.
-
-```
-pip install gptsubtitler
-```
-
-Install [`ffmpeg`](https://ffmpeg.org/):
-```bash
-# Ubuntu or Debian
-sudo apt update && sudo apt install ffmpeg
-
-# MacOS
-brew install ffmpeg
-
-# Windows using Chocolatey https://chocolatey.org/
-choco install ffmpeg
-```
-
 # Quick guide
 Example usage for adding subtitles and translating them in Romanian:
 
